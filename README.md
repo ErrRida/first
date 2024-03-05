@@ -1,2 +1,2 @@
-# first
-Test 1
+# Simple project with html css javascript
+Test 
